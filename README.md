@@ -10,3 +10,7 @@ Repository of algorithms implemented in Python. These mostly include algorithms 
 
 Solutions to the first programming assignment is in countInversions.py
 Solutions to the first Quiz are in QuizWeek01_Answers.pdf
+
+### Week 2 (Commit) includes the following implementations.
+- Quick Sort
+- Recursively computing the number of comparisons with pivot element (a proxy to compute work done by the Quick Sort algorithm)
